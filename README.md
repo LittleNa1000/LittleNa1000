@@ -6,8 +6,12 @@ Computer Engineering Student, Chulalongkorn University
 
 Currently studying in sophomore year
 
-*   🌍  I'm based in Bangkok, Thailand
-*   ✉️  You can contact me at [naphanccnp@gmail.com](mailto:naphanccnp@gmail.com)### Skills 
+* 🌍  I'm based in Bangkok, Thailand
+* ✉️  You can contact me at [naphanccnp@gmail.com](mailto:naphanccnp@gmail.com)
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -20,12 +24,8 @@ Currently studying in sophomore year
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
-                    
+
+
 ### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/LittleNa1000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readmegenerator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/naphan-choatchuangnapha-216995217/" target="_blank" rel="noreferrer"><imgsrc="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<p align="left"> <a href="https://www.github.com/LittleNa1000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naphan-choatchuangnapha-216995217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
