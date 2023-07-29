@@ -4,7 +4,7 @@ Hi 👋 My name is Naphan Choatchuangnapha
 Computer Engineering Student, Chulalongkorn University
 ------------------------------------------------------
 
-Currently studying in sophomore year
+Currently studying in 3rd year
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [naphanccnp@gmail.com](mailto:naphanccnp@gmail.com)
