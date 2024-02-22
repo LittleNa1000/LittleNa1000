@@ -29,3 +29,5 @@ Currently studying in 3rd year
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/LittleNa1000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naphan-choatchuangnapha-216995217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+[![LittleNa1000's GitHub | Stats](https://stats.quine.sh/LittleNa1000/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=LittleNa1000)
