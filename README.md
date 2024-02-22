@@ -1,5 +1,7 @@
 <h1 align="center">Hello👋 , My name is Little🤏</h1>
-<h3 align="center">A fullstack web developer, Technology Department Member, Engineering Student Committee, Chulalongkorn University</h3>
+<h3 align="left">- A fullstack web developer</h3>
+<h3 align="left">- Member of IT Department, Engineering Student Committee for Chulalongkorn University</h3>
+<h3 align="left">- 3rd year Computer Engineering student</h3>
 
 - 🌱 I’m currently learning **Web Development and DevOps**
 
