@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stars/LittleNa1000/lists/my-software-projects](https://github.com/stars/LittleNa1000/lists/my-software-projects)
+- 👨‍💻 All of my projects are available at [https://github.com/stars/LittleNa1000/lists/my-software-projects](https://github.com/stars/LittleNa1000/lists/my-public-software-projects)
 
 - 📫 How to reach me **naphan.ccnp@gmail.com**
 
