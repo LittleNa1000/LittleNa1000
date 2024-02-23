@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Web Development and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stars/LittleNa1000/lists/my-software-projects](https://github.com/stars/LittleNa1000/lists/my-public-software-projects)
+- 👨‍💻 All of my projects are available [Here](https://github.com/stars/LittleNa1000/lists/my-public-software-projects)
 
 - 📫 How to reach me **naphan.ccnp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/179Ypa6yXWb1Z_ifbjr0X977wxNCOTIqs/view?usp=sharing](https://drive.google.com/file/d/179Ypa6yXWb1Z_ifbjr0X977wxNCOTIqs/view?usp=sharing)
+- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/file/d/179Ypa6yXWb1Z_ifbjr0X977wxNCOTIqs/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm in love with 🧋.**
 
